@@ -1,2 +1,4 @@
 # test-repo
-rest and analysis repo
+test and analysis repo
+
+corrected the statement above from Rstudio
